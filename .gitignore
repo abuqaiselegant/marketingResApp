@@ -1,0 +1,19 @@
+.DS_Store
+
+# Virtual environments
+.venv/
+**/.venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Env files / secrets
+.env
+.env.*
+
+# Data outputs (often contain personal/company data)
+*.xlsx
+*.csv
+company-email-extractor/input/
+company-email-extractor/output/

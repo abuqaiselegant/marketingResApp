@@ -1,0 +1,17 @@
+.venv/
+__pycache__/
+*.py[cod]
+.DS_Store
+
+# Input / output data (often contains personal data)
+input/
+output/
+*.xlsx
+*.csv
+
+# Local env files / secrets
+.env
+.env.*
+
+# Logs
+*.log
