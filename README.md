@@ -1,6 +1,6 @@
 ## marketingResApp
 
-Tool that extract company emails from an Excel file(using company and its website url).
+Tool that extract company emails, take excel file as an input(it should have company name and its website url).
 
 You can run it in two ways:
 - **Simple mode (recommended)**: drop an `.xlsx` into `input/` → get output in `output/`
