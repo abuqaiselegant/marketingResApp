@@ -15,5 +15,5 @@ __pycache__/
 # Data outputs (often contain personal/company data)
 *.xlsx
 *.csv
-company-email-extractor/input/
-company-email-extractor/output/
+input/
+output/
