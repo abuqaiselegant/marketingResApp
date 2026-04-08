@@ -1,5 +1,5 @@
 [project]
-name = "company-email-extractor"
+name = "marketing-res-app"
 version = "0.1.0"
 description = "Extract company websites and emails from Excel or a single URL."
 readme = "README.md"
@@ -14,7 +14,7 @@ dependencies = [
 ]
 
 [project.scripts]
-company-email-extractor = "project.cli:app"
+marketing-res-app = "project.cli:app"
 
 [build-system]
 requires = ["hatchling>=1.24"]

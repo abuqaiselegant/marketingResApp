@@ -58,7 +58,7 @@ def serpapi_search_texts(
                         "q": q,
                         "api_key": api_key,
                     },
-                    headers={"User-Agent": "company-email-extractor/0.1"},
+                    headers={"User-Agent": "marketing-res-app/0.1"},
                 )
                 r.raise_for_status()
                 data = r.json()

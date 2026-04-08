@@ -1,4 +1,4 @@
-## marketingResApp (Company Email Extractor)
+## marketingResApp
 
 Extract company emails from an Excel file.
 
